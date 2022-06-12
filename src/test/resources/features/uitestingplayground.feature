@@ -41,7 +41,7 @@ Feature: UI Test Automation Playground
     Then Verify that button is visible
 
   @TC-07
-  Scenario Outline: : Sample App
+  Scenario Outline: Sample App
     Given Click Sample App case
     When Wait for 3 seconds
     Then Verify successfully login username:<Username> password:<Password>
