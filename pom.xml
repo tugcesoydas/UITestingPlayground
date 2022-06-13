@@ -6,7 +6,7 @@
 
 
     <groupId>org.example</groupId>
-    <artifactId>FINEOS</artifactId>
+    <artifactId>spriteCloudAssignment</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <build>
