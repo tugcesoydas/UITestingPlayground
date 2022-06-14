@@ -10,14 +10,14 @@ import org.junit.runner.RunWith;
         plugin = {
 
         "pretty",
-        "json:target/cucumber.json"
+        "json:target/cucumber.json","json:target/cucumber-reports/Cucumber.json"
         },
 
         features = "src/test/resources/features",
         glue = "uitestingplayground/step_definitions",
         dryRun = false,
         publish =false,
-        tags = "@TC-04"
+        tags = "@AllCases"
 
 
 
