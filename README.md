@@ -5,10 +5,10 @@ Environment and specs: https://demoqa.com/ (UI) / https://petstore.swagger.io/ (
 ## Tools & Maven Dependencies
 
 IntelliJ / Java
-Rest Assured
-Cucumber / BDD
-jackson
-Cucumber Report
+/ Rest Assured
+/ Cucumber / BDD
+/ jackson
+/ Cucumber Report
 
 **Also you can find my PetStoreApi project in my gitHub profile.
 
